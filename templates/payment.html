@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block metadescription %}
+    This is the payment page. Proceed to pay your items and place the order
+{% endblock %}
+{% block title %}
+    Cart - ABC Company PVT LTD
+{% endblock %}
+{% block content %}
+ {% if not cart_items %}
+<form action="{% url 'make_payment' %}" method="post">
+    {% csrf_token %}
+    <input type="submit" value="Make Payment">
+</form>
+
+{% endblock %}
