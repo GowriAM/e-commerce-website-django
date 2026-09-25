@@ -20,3 +20,4 @@ My E-commerce website built with Python Django.
 - Python, Django
 - HTML, CSS, Bootstrap
 - SQLite
+Live Demo: https://amgowri03.pythonanywhere.com/shopapp/
