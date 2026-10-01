@@ -1,23 +1,42 @@
-# 🛒 E-commerce Project - Django
+# 🛍️ StyleHub - Fashion Store | Django E-Commerce
 
-My E-commerce website built with Python Django.
+🔴 **Live Demo:** https://amgowri03.pythonanywhere.com/shopapp/
+💻 **GitHub:** https://github.com/GowriAM/e-commerce-website-django
 
-## 📸 Screenshots
+A complete Fashion E-Commerce platform built with Django - Browse, Search, Add to Cart!
 
-### 1. Home Page
-![Home](./screenshots/1-home.png)
+> Built by Gowri AM | BTech CSE 2025 | Python Developer
 
-### 2. Home - Products
-![Home 2](./screenshots/2-home.png)
+### 🚀 Key Features
+- User Authentication (Register, Login, Logout)
+- Product Listing with Category Filter
+- Product Details with Image
+- Shopping Cart - Add / Remove / Quantity Update
+- Product Search Functionality
+- Admin Panel to Manage Products
 
-### 3. Product Page
-![Product](./screenshots/3-product.png)
+### 🛠️ Tech Stack
+**Backend:** Python, Django
+**Frontend:** HTML5, CSS3, Bootstrap, JavaScript
+**Database:** SQLite -> MySQL
+**Deployment:** PythonAnywhere
 
-### 4. Cart Page
-![Cart](./screenshots/4-cart.png)
+### 📸 Screenshots
 
-## Tech Stack
-- Python, Django
-- HTML, CSS, Bootstrap
-- SQLite
-Live Demo: https://amgowri03.pythonanywhere.com/shopapp/
+**Home - Collections**
+![Home 1](screenshots/1-home.png)
+
+**Home - All Products**
+![Home 2](screenshots/2-home.png)
+
+**Product Page**
+![Product](screenshots/3-product.png)
+
+**My Cart**
+![Cart](screenshots/4-cart.png)
+
+### 🔗 Links
+- Live: https://amgowri03.pythonanywhere.com/shopapp/
+- Movie World Live: https://gowriam2.pythonanywhere.com
+
+### ⚙️ Run Locally
